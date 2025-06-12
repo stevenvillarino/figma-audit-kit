@@ -41,4 +41,4 @@ config.json  # If you decide to use a config file for tokens
 # Icon batch exporter specific
 figma-icon-batch-exporter/config.py  # Contains sensitive tokens
 figma-icon-batch-exporter/exported_icons/  # Generated icon exports
-figma-icon-batch-exporter/*.svg  # Any SVG files that might be exported to root
+figma-icon-batch-exporter/*.svg  # Any SVG files that might be exported to root 

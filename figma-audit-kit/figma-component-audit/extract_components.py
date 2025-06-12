@@ -39,4 +39,4 @@ if response.status_code == 200:
 
     print(f"✅ Extracted {len(components)} components with parent names into 'components_list.txt'")
 else:
-    print(f"❌ Failed to fetch file: {response.status_code} - {response.text}")
+    print(f"❌ Failed to fetch file: {response.status_code} - {response.text}") 
